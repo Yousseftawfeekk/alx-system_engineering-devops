@@ -1,0 +1,2 @@
+#!/binn/bash
+mkdir -m 777 /tmp/my_first_dirictory
